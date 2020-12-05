@@ -1,0 +1,54 @@
+body {
+	background-color: hsl(185, 75%, 39%);
+	
+}
+.gen {
+	border-radius:95%;
+	position: absolute;
+	left:100px;
+	top: 90px;
+	border: 2px solid white;
+}
+.hen {
+	width:100%;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+	height:135px;
+	
+}
+div.two {
+	width: 22%;
+	height:330px;
+
+margin:auto;
+margin-top: 140px;
+	position: relative;
+	border-radius: 15px;
+}
+.one {
+	margin-top: 60px;
+	margin-left: 90px;
+	line-height: 1.2;
+	
+}
+span {
+	margin-left: 30px;
+}
+.two {
+	background-color: white;
+}
+.yes {
+color:  hsl(229, 23%, 23%);
+font-weight: 900;
+font-size: 18px;
+}
+.no {
+color: hsl(227, 10%, 46%);
+}
+.hell {
+	line-height: 0;
+	display: inline-block;
+	margin-top: 20px;
+	margin-left: 35px;
+	
+}
